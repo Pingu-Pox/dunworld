@@ -2,7 +2,7 @@
 name: Testing
 about: We need your help testing!
 title: ''
-labels: ''
+labels: help wanted
 assignees: ''
 
 ---

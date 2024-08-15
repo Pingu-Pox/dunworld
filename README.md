@@ -5,6 +5,9 @@ Welcome to our Foundry-hosted Palworld modpack.
 # Note
 This is a modpack made for the Steam version of Palworld, other game stores are not supported currently (gamepass, etc.)
 
+# Server Address:
+Coming soon™
+
 ## Installation:
 1. Download and install Vortex Mod Manager (for managing your mods from Nexus Mods)
 2. Launch Vortex Mod Manager, if it complains about not having .NET, have it fix/install it for you.
@@ -16,6 +19,9 @@ This is a modpack made for the Steam version of Palworld, other game stores are 
 8. Once everything is enabled, and you have no new notifications in the notification center, launch the game!
 
 Currently you can try the modpack in **single-player**.
+
+# Note
+Palworld is buggy, the modpack makes it worse. **You will crash**, just submit your crash report to the game studio and get back in game. **Do not submit crashes to our github issue tracker.**
 
 # Want to help improve the modpack?
 Submit bug requests, make feature requests, or test mods for us here: https://github.com/Pingu-Pox/dunworld/issues

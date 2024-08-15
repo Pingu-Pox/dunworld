@@ -24,7 +24,3 @@ Palworld is already known for bugs, and this modpack can introduce more instabil
 
 ## Want to Contribute?
 You can submit bug reports, feature requests, or help us test mods here: [GitHub Issue Tracker](https://github.com/Pingu-Pox/dunworld/issues)
-
----
-
-Let me know if you need further adjustments!

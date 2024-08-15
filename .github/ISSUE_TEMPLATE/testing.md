@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Mod that needs testing:**
-Name of mod
+Name of mod (and link of mod)
 
 **How do I test it?**
 1. Actions taken to test mod

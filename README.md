@@ -13,7 +13,7 @@ Coming soon:tm:
 3. In Vortex, go to the "Games" tab, search for **Palworld**, hover over the game's tile, and click "Manage". You’ll be prompted to install an extension—accept the prompt. If Vortex gets stuck during setup, click "Cancel" and try again.
 4. If Vortex can’t automatically detect your Palworld installation, manually locate the directory where the "Pal" and "Engine" folders are (e.g., `C:\SteamLibrary\steamapps\common\Palworld`).
 5. Select **Steam** as your game store. Windows may ask for permission to continue.
-6. Add the mod collection to Vortex by following [this link](https://next.nexusmods.com/palworld/collections/abwnwl/revisions/1?tab=about&utm_source=copy&utm_medium=social&utm_campaign=share_collection).
+6. Add the mod collection to Vortex by following [this link](https://next.nexusmods.com/palworld/collections/abwnwl).
 7. Once the collection is installed and enabled, check the notification center (top right) for any warnings. If there are notifications requiring deployment, approve them.
 8. After all notifications are cleared and everything is enabled, you’re ready to launch the game!
 
